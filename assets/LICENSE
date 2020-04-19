@@ -4997,6 +4997,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 --------------------------------------------------------------------------------
 firebase_auth
+firebase_auth_platform_interface
+firebase_auth_web
 firebase_core
 firebase_core_platform_interface
 firebase_database
